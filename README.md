@@ -24,7 +24,7 @@ There is one notebook available here with work called "Sparkify.ipynd".  The not
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://nikdimi.medium.com/customer-churn-prediction-with-spark-f71c358a48bb).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
